@@ -38,3 +38,10 @@
     transform: rotate(360deg);
   }
 }
+
+.navlink{
+  text-decoration: none;
+  color: white;
+  margin: 15px;
+  
+}
